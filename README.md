@@ -1,4 +1,5 @@
 # TODO List
+<img src="https://img.shields.io/badge/Python-3.x-orange.svg"> <img src="https://img.shields.io/badge/Status-Completed-brightgreen.svg">
 
 Hey There!
 
